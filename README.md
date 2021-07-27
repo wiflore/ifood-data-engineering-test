@@ -7,6 +7,8 @@ Target audience: everyone looking for a spot at iFood's (Data Engineering) table
 
 At iFood, Data Engineers are encouraged to look up any tool that might help solve any challenge. Therefore, use whatever language, storage and tools you feel comfortable with. Also, briefly elaborate on your decisions.
 
+Please send the solution to the email: william.florez@ifood.com.co
+
 So, without further ado, let's get started!
 
 ### Sandbox: ETL building
